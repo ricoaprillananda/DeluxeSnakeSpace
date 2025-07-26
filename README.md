@@ -54,8 +54,9 @@ To play Deluxe Snake Space, follow these steps:
 4. Run the game:
     ```bash
     python main.py
+    ```
 
-```
+---
 
 ## Requirements
 
