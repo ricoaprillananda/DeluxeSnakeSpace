@@ -18,8 +18,6 @@ This version features smooth gameplay, beautiful backgrounds, interactive sound 
 
 ## How to Play
 
-```
-
 1. **Control the Snake:**
    - Use the arrow keys on your keyboard (up, down, left, right) to move the snake.
 2. **Eat Food:**
@@ -30,9 +28,8 @@ This version features smooth gameplay, beautiful backgrounds, interactive sound 
    - The game is won when you reach 27 lives.
 5. **Losing:**
    - The game ends when you run out of lives, but the snake got eaten by an eagle in a funny way!
-
-```
   
+---
 
 ## Installation
 
@@ -68,7 +65,6 @@ To play Deluxe Snake Space, follow these steps:
 ```
 
 ---
-
 
 ## MIT License
 
