@@ -7,11 +7,11 @@ This version features smooth gameplay, beautiful backgrounds, interactive sound 
 ## Features
 
 - Elegant Snake Design: The snake's appearance changes as it eats food, growing longer and shinier. 🐍
-- Background Themes: The game features two distinct backgrounds—Space and Jungle—that change dynamically based on your score.🌳🌲☘️🍀
+- Background Themes: The game features two distinct backgrounds—Space and Jungle—that change dynamically based on your score🍀
 - Dynamic Obstacles: Obstacles appear as the game progresses, making the challenge more intense. Avoid them to stay alive!🦅
 - Smooth Game Mechanics: The game has seamless movement, and your snake wraps around the screen when it hits the edges, so you never lose track of your snake. 🗻
 - Sound Effects: Enjoy immersive background music and sound effects for eating food, hitting obstacles, and more! 🎼🎵
-- Lives System: Start with 2 lives, which increase when you eat food. The game ends when you hit 0 lives or achieve a high score. ❤️
+- Lives System: Start with 2 lives, which increase when you eat food. The game ends when you hit 0 lives or achieve a high score. ❤
 - Winning & Losing: The game is won when you reach 27 lives, and the game ends with a funny message when you lose. 🍷
 
 ---
@@ -38,8 +38,6 @@ This version features smooth gameplay, beautiful backgrounds, interactive sound 
 
 To play Deluxe Snake Space, follow these steps:
 
-```
-
 1. Clone the repository:
 
     ```bash
@@ -47,19 +45,16 @@ To play Deluxe Snake Space, follow these steps:
     ```
 
 2. Navigate to the project folder:
-
     ```bash
     cd DeluxeSnakeSpace
     ```
 
 3. Install the required dependencies:
-
     ```bash
     pip install -r requirements.txt
     ```
 
 4. Run the game:
-
     ```bash
     python main.py
 
@@ -68,10 +63,8 @@ To play Deluxe Snake Space, follow these steps:
 ## Requirements
 
 ```
-
 - Python 3.x
 - Pygame library
-
 ```
 
 ---
