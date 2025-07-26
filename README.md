@@ -62,7 +62,8 @@ To play Deluxe Snake Space, follow these steps:
 
 - Python 3.x
 - Pygame library
-```
+
+---
 
 ## MIT License
 
